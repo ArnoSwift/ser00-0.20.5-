@@ -1,12 +1,7 @@
 # nezha4serv00
- Scripts for nezha installation on Serv00
 
-Dashboard installation:
-```bash
-bash <(curl -s https://github.com/arnoswift/ser00-0.20.5-/main/install-dashboard.sh)
-```
 
 Agent installation:
 ```bash
-bash <(curl -s https://github.com/arnoswift/ser00-0.20.5-/main/install-agent.sh)
+bash <(curl -s  bash <(curl -s https://raw.githubusercontent.com/arnoswift/ser00-0.20.5-/main/install-agent.sh)
 ```
