@@ -8,5 +8,5 @@ bash <(curl -s https://github.com/arnoswift/ser00-0.20.5-/main/install-dashboard
 
 Agent installation:
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/k0baya/nezha4serv00/main/install-agent.sh)
+bash <(curl -s https://github.com/arnoswift/ser00-0.20.5-/main/install-agent.sh)
 ```
